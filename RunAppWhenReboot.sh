@@ -10,4 +10,5 @@ else
     npm run dev  --prefix /home/moshe/bootcamp-app;  #see on your browser go to http://34.90.48.244:8080/
 fi
 #crontab -e
-#@reboot  /home/moshe/bootcamp-app/RunAppWhenReboot.sh
+#@reboot  /home/moshe/bootcamp-app/RunAppWhenReboot.sh 
+#
