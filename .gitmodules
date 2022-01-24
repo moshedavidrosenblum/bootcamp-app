@@ -1,0 +1,3 @@
+[submodule "TravelProj"]
+	path = TravelProj
+	url = git@github.com:moshedavidrosenblum/TravelProj.git
